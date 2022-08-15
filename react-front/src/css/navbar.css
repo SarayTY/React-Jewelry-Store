@@ -1,0 +1,21 @@
+.cart-icon span{
+    position: relative;
+    bottom: 10px;
+    right: 7px;
+    cursor: pointer;
+    background: red;
+    border-radius: 45%;
+    border: 1px solid red;
+    font-size: 14px;
+    color: white;
+  }
+
+.cart-icon {
+    margin-top: 10px;
+  }
+  
+.cart-icon a {
+    text-decoration: none!important;
+  }
+
+  

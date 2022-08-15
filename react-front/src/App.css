@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Urbanist', sans-serif;
+
+}
+
+body , html{
+  overflow-x: hidden;
+}
+
+body{
+  background-image: url("https://c2.vanceai.com/posts/16221724663407807-FreepixSAmple.jpg");
+  background-size:cover; 
+}
+
+h5 , p{
+  font-style: italic;
+}
+
+
+/* footer.jsx */
+.footer-d{
+  color: white;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+.about-page{
+    margin: 20px auto;
+    width:90%;
+    text-align: center;
+    /* background-color: rgba(111, 147, 194, 0.836); */
+    background-color: rgba(31, 218, 209, 0.205);
+    border-radius: 5px;
+}
+
+.aboutFirstRow{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.aboutSecondRow{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.img-title{
+    text-align: center;
+}
+
+.title-paragraph{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row > * {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+} 
+

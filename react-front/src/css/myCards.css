@@ -1,0 +1,13 @@
+.new-card{
+    display: inline;
+    background: rgba(103, 174, 240, 0.705);
+    padding: 5px;
+    border-radius: 5px;
+    border: thick double black;
+  }
+  
+  .edit-card-link{
+    text-decoration: none;
+    color: rgba(0, 26, 255, 0.747);
+    font-weight: 900;
+  }

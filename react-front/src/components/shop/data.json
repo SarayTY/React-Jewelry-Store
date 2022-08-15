@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "_id": "jewelry1",
+      "image": "https://media.istockphoto.com/photos/earrings-with-emerald-picture-id1350815428?b=1&k=20&m=1350815428&s=170667a&w=0&h=cj_oaqUqW7x4gyRTMbbyJjVeKUlC9KHqWJthsA4mcB8=",
+      "title": "Green Earings",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["White Gold", "Diamond", "Earings"],
+      "price": 29.9,
+      "qty":1
+    },
+    {
+      "_id": "jewelry2",
+      "image": "https://tomemaison.com/wp-content/uploads/2021/07/istockphoto-176830145-612x612-1.jpg",
+      "title": "Engagement Rings",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["Gold", "Rings"],
+      "price": 18.9,
+      "qty":1
+    },
+    {
+      "_id": "jewelry3",
+      "image": "https://www.graff.com/dw/image/v2/BFNT_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6a0d1c05/images/hi-res/RGN626_RGN626_GN9278_Hero_1.jpg?sw=800&sh=800",
+      "title": "A Diamond necklace ",
+      "description":"This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["White Gold", "Diamond" , "Necklace"],
+      "price": 14.9,
+      "qty":1
+    },
+    {
+      "_id": "jewelry4",
+      "image": "https://image.brilliantearth.com/media/diamond_ring_vto/8T/BE1D64_white_Round_top_75_carat.png",
+      "title": "A Diamond Ring",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["Diamond", "Rings"],
+      "price": 25.9,
+      "qty":1
+    },
+    {
+      "_id": "jewelry5",
+      "image": "https://www.kay.com/productimages/processed/V-173461005_0_800.jpg?pristine=true",
+      "title": "A Love Heart Necklace",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["Diamond" , "Silver" , "Necklace"],
+      "price": 10.9,
+      "qty":1
+    },
+    {
+      "_id": "jewelry6",
+      "image": "https://kinclimg8.bluestone.com/f_jpg,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISP0419S17_YAA18DIG6XXXXXXXX_ABCD00-PICS-00004-1024-37601.png",
+      "title": "Gold Diamond Earrings ",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["Gold", "Earings"],
+      "price": 49.9,
+      "qty":1
+    },
+    {
+      "_id":"jewelry7",
+      "image":"https://besembol.com/wp-content/uploads/2020/05/new_0000_20.jpg",
+      "title":"A Moon Necklace",
+      "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and Created by us, styled by you.",
+      "availableProducts": ["Necklace" , "Silver"],
+      "price": 24.9,
+      "qty":1
+    }
+  ]
+}
